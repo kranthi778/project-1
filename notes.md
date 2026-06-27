@@ -70,8 +70,34 @@ Firmware Version: VirtualBox
 
 
 
+## 5. Kernel Information
 
-                                                                                                                        
+### Command
+```bash
+uname -a
+```
+
+### Explanation :
+      Displays detailed information about the Linux kernel and system architecture.
+
+         
+                                                                                                               
+## 6. Operating System Details
+
+### Command
+```bash
+cat /etc/os-release
+```
+
+### Explanation :
+     Displays detailed information about the installed Linux distribution.
 
                                                                                                                                                                                                                                             
 
+
+## Skills Learned
+    Basic Linux commands
+    User identification
+    System identification
+    Operating system information
+    Kernel information
