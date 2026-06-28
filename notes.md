@@ -76,6 +76,10 @@ Firmware Version: VirtualBox
 ```bash
 uname -a
 ```
+### output :
+      Linux luffy5250 6.18.12+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.18.12-1kali1 (2026-02-25) x86_64 GNU/Linux
+
+
 
 ### Explanation :
       Displays detailed information about the Linux kernel and system architecture.
@@ -88,6 +92,20 @@ uname -a
 ```bash
 cat /etc/os-release
 ```
+
+### output : 
+      PRETTY_NAME="Kali GNU/Linux Rolling"
+      NAME="Kali GNU/Linux"
+      VERSION_ID="2026.2"
+      VERSION="2026.2"
+      VERSION_CODENAME=kali-rolling
+      ID=kali
+      ID_LIKE=debian
+      HOME_URL="https://www.kali.org/"
+      SUPPORT_URL="https://forums.kali.org/"
+      BUG_REPORT_URL="https://bugs.kali.org/"
+      ANSI_COLOR="1;31"
+
 
 ### Explanation :
      Displays detailed information about the installed Linux distribution.
