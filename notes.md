@@ -8,13 +8,15 @@
 
 ### output :
          luffy5250
-                                                                                                                                                                                                                                             
-### Explanation :
-         This displays the username of the currently logged-in user
 
 ### screenshots :
 
   ![Alt text](screenshots/whoami.png)
+
+                                                                                                                                                                                                                                             
+### Explanation :
+         This displays the username of the currently logged-in user
+
 
 
 ## 2. id 
@@ -24,6 +26,11 @@
 
 ### output : 
          uid=1000(luffy5250) gid=1000(luffy5250) groups=1000(luffy5250),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),102(scanner),112(bluetooth),117(lpadmin),119(wireshark),123(vboxsf),124(kaboxer)
+
+### screenshots :
+
+  ![Alt text](screenshots/id.png)
+
 
 
 ### Explanation : 
@@ -40,6 +47,11 @@
        ```text
        kali
       ```
+### screenshots :
+
+  ![Alt text](screenshots/hostname.png)
+
+
 ### Explanation :
          Displays the name of the computer on the network.
 
@@ -67,6 +79,11 @@ Firmware Version: VirtualBox
    Firmware Date: Fri 2006-12-01
     Firmware Age: 19y 6month 3w 4d 
   ```
+### screenshots :
+
+  ![Alt text](screenshots/hostnamectl.png)
+
+
 ### Explanation :
             Diapays detailed system and hostnames information
               shows the Hostname,operating system,kernel version and system architecture.
@@ -83,6 +100,9 @@ uname -a
 ### output :
       Linux luffy5250 6.18.12+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.18.12-1kali1 (2026-02-25) x86_64 GNU/Linux
 
+### screenshots :
+
+  ![Alt text](screenshots/unam -a.png)
 
 
 ### Explanation :
@@ -110,6 +130,10 @@ cat /etc/os-release
       BUG_REPORT_URL="https://bugs.kali.org/"
       ANSI_COLOR="1;31"
 
+### screenshots :
+
+  ![Alt text](screenshots/os-release.png)
+
 
 ### Explanation :
      Displays detailed information about the installed Linux distribution.
@@ -123,3 +147,4 @@ cat /etc/os-release
     System identification
     Operating system information
     Kernel information
+
