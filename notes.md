@@ -860,3 +860,231 @@ In this part I learned how to:
 - Display line numbers, in a file using `nl`
 
 - Clear the terminal screen with `clear`
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Part 5 – File Searching And Disk Usage
+
+## 1. Search For Files
+
+### Command
+
+```bash
+
+find. -Name "*.txt"
+
+```
+
+### Description
+
+I can use this command to search for all my text files with the extension in the current directory and its subdirectories. This is really useful when I need to find a file. The File Searching command is very helpful for this. I use File Searching to look for my files.
+
+### Screenshot
+
+![Alt text](screenshots/find.png)
+
+---
+
+## 2. Locate A Command
+
+### Command
+
+```bash
+
+which python3
+
+```
+
+### Description
+
+When I need to know where a certain program is located I use the Locate Command. The Locate Command helps me find the location of the python3 executable. This is useful when I need to know where my programs are.
+
+### Screenshot
+
+![Alt text](screenshots/which.png)
+
+---
+
+## 3. Display Disk Usage
+
+### Command
+
+```bash
+
+df -h
+
+```
+
+### Description
+
+To check how space I have left on my disk I use the Display Disk Usage command. The Display Disk Usage command shows me the disk space usage in a way that's easy to understand. I use Display Disk Usage to check my disk space.
+
+### Screenshot
+
+![Alt text](screenshots/df-h.png)
+
+---
+
+## 4. Display Directory Size
+
+### Command
+
+```bash
+
+du -sh.
+
+```
+
+### Description
+
+I can check the size of the current directory using the Display Directory Size command. The Display Directory Size command is useful when I need to know how space a directory is taking up. I use Display Directory Size to check the size of my directories.
+
+### Screenshot
+
+![Alt text](screenshots/du-sh.png)
+
+---
+
+## 5. Display Calendar
+
+### Command
+
+```bash
+
+cal
+
+```
+
+### Description
+
+The Display Calendar command shows me the months calendar. I use the Display Calendar command when I need to check the dates. The calendar is very helpful for planning.
+
+### Screenshot
+
+![Alt text](screenshots/cal.png)
+
+---
+
+## 6. Display Current Date And Time
+
+### Command
+
+```bash
+
+date
+
+```
+
+### Description
+
+To check the date and time I use the Display Current Date And Time command. The Display Current Date And Time command shows me the system date and time. I use Display Current Date And Time to check the time.
+
+### Screenshot
+
+![Alt text](screenshots/date.png)
+
+---
+
+## 7. Display Command History
+
+### Command
+
+```bash
+
+history
+
+```
+
+### Description
+
+The Display Command History command shows me all the commands I have used before. I use the Display Command History command when I need to remember what I did earlier. The command history is very useful for this.
+
+### Screenshot
+
+![Alt text](screenshots/history.png)
+
+---
+
+## 8. Display Running Processes
+
+### Command
+
+```bash
+
+ps
+
+```
+
+### Description
+
+To check which processes are currently running I use the Display Running Processes command. The Display Running Processes command shows me the processes that are running for the user. I use Display Running Processes to check the processes.
+
+### Screenshot
+
+![Alt text](screenshots/ps.png)
+
+---
+
+## 9. Monitor System Processes
+
+### Command
+
+```bash
+
+top
+
+```
+
+### Description
+
+The Monitor System Processes command shows me real-time information about the processes and system resources. I use the Monitor System Processes command when I need to check the system resources. The Monitor System Processes command is very helpful for monitoring the system.
+
+### Screenshot
+
+![Alt text](screenshots/top.png)
+
+---
+
+## 10. Exit The Terminal
+
+### Command
+
+```bash
+
+exit
+
+```
+
+### Description
+
+When I am done using the terminal I use the Exit The Terminal command to close the session. The Exit The Terminal command is useful when I need to exit the terminal. I use Exit The Terminal to exit.
+
+### Screenshot
+
+![Alt text](screenshots/exit.png)
+
+---
+
+# Conclusion
+
+In this part, I learned how to:
+
+- Search for files using `find`
+- Locate executable programs using `which`
+- Check disk usage using `df`
+- Check directory size using `du`
+- View the calendar using `cal`
+- Display the current date and time using `date`
+- View command history using `history`
+- Display running processes using `ps`
+- Monitor system resources using `top`
+- Exit the terminal using `exit`
+
+
+
+
+
+
+
