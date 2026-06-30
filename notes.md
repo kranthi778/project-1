@@ -11,7 +11,7 @@
 
 ### screenshots :
 
-  ![Alt text]Alt text](screenshots/whoami.png)
+  ![Alt text](screenshots/whoami.png)
 
                                                                                                                                                                                                                                              
 ### Explanation :
@@ -29,7 +29,7 @@
 
 ### screenshots :
 
-  ![Alt text]Alt text](screenshots/id.png)
+  ![Alt text](screenshots/id.png)
 
 
 
@@ -49,7 +49,7 @@
       ```
 ### screenshots :
 
-  ![Alt text]Alt text](screenshots/hostname.png)
+  ![Alt text](screenshots/hostname.png)
 
 
 ### Explanation :
@@ -81,7 +81,7 @@ Firmware Version: VirtualBox
   ```
 ### screenshots :
 
-  ![Alt text]Alt text](screenshots/hostnamectl.png)
+  ![Alt text](screenshots/hostnamectl.png)
 
 
 ### Explanation :
@@ -102,7 +102,7 @@ uname -a
 
 ### screenshots :
 
-  ![Alt text]Alt text](screenshots/unam -a.png)
+  ![Alt text](screenshots/unam -a.png)
 
 
 ### Explanation :
@@ -132,7 +132,7 @@ cat /etc/os-release
 
 ### screenshots :
 
-  ![Alt text]Alt text](screenshots/os-release.png)
+  ![Alt text](screenshots/os-release.png)
 
 
 ### Explanation :
@@ -172,7 +172,7 @@ Shows the current working directory.
 ### Screenshot
 
 
-![Alt text]Alt text](screenshots/pwd.png)
+![Alt text](screenshots/pwd.png)
 
 
 
@@ -189,7 +189,7 @@ Lists the files and directories in the current location.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/ls.png)
+![Alt text](screenshots/ls.png)
 
 
 
@@ -212,7 +212,7 @@ Shows files and directories in detail, including:
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/ls-l.png)
+![Alt text](screenshots/ls-l.png)
 
 
 
@@ -228,7 +228,7 @@ Shows all files, including hidden ones, with detailed information.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/ls-la.png)
+![Alt text](screenshots/ls-la.png)
 
 
 
@@ -249,7 +249,7 @@ Changes the current working directory.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/cd.png)
+![Alt text](screenshots/cd.png)
 
 
 
@@ -265,7 +265,7 @@ Moves to the parent directory.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/cd-back.png)
+![Alt text](screenshots/cd-back.png)
 
 
 
@@ -282,7 +282,7 @@ Returns to the user's home directory.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/cd-home.png)
+![Alt text](screenshots/cd-home.png)
 
 
 
@@ -299,7 +299,7 @@ Creates a new directory called `test_folder`.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/mkdir.png)
+![Alt text](screenshots/mkdir.png)
 
 
 
@@ -316,7 +316,7 @@ Deletes an empty directory.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/rmdir.png)
+![Alt text](screenshots/rmdir.png)
 
 
 
@@ -333,7 +333,7 @@ Creates a new empty file called `file.txt`.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/touch.png)
+![Alt text](screenshots/touch.png)
 
 
 
@@ -383,7 +383,7 @@ This is the Linux kernel way of showing you the users.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/who.png)
+![Alt text](screenshots/who.png)
 
 ---
 
@@ -411,7 +411,7 @@ This is the Linux kernel way of showing you the usernames of users.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/users.png)
+![Alt text](screenshots/users.png)
 
 ---
 
@@ -439,7 +439,7 @@ This is the Linux kernel way of showing you the name of the kernel.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/uname-s.png)
+![Alt text](screenshots/uname-s.png)
 
 ---
 
@@ -467,7 +467,7 @@ This is the Linux kernel way of showing you the version of the kernel.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/uname-r.png)
+![Alt text](screenshots/uname-r.png)
 
 ---
 
@@ -495,7 +495,7 @@ This is the Linux kernel way of showing you the hardware architecture.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/uname-m.png)
+![Alt text](screenshots/uname-m.png)
 
 ---
 
@@ -523,7 +523,7 @@ This command may return "unknown" on some systems.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/uname-p.png)
+![Alt text](screenshots/uname-p.png)
 
 ---
 
@@ -551,7 +551,7 @@ This command may return "unknown" on some systems.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/uname-i.png)
+![Alt text](screenshots/uname-i.png)
 
 ---
 
@@ -579,7 +579,7 @@ This is the Linux kernel way of showing you the kernel version and compiler info
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/proc-version.png)
+![Alt text](screenshots/proc-version.png)
 
 ---
 
@@ -607,7 +607,7 @@ This is the Linux kernel way of showing you the CPU information.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/lscpu.png)
+![Alt text](screenshots/lscpu.png)
 
 ---
 
@@ -635,7 +635,7 @@ This is the Linux kernel way of showing you the memory information.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/free-h.png)
+![Alt text](screenshots/free-h.png)
 
 ---
 
@@ -677,7 +677,7 @@ I use `cp` to copy `file1.txt` to a file called `file2.txt`. This way I have a d
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/cp.png)
+![Alt text](screenshots/cp.png)
 
 ## 2. Move or Rename Files
 
@@ -695,7 +695,7 @@ The `mv` command helps me move or rename files. For example I can rename `file2.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/mv.png)
+![Alt text](screenshots/mv.png)
 
 ## 3. Remove Files
 
@@ -713,7 +713,7 @@ To delete a file I use the `rm` command. For instance I can delete `newfile.txt`
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/rm.png)
+![Alt text](screenshots/rm.png)
 
 ## 4. Display File Contents
 
@@ -731,7 +731,7 @@ The `cat` command is useful for displaying the contents of a file like `sample.t
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/cat.png)
+![Alt text](screenshots/cat.png)
 
 ## 5. Display First 10 Lines
 
@@ -749,7 +749,7 @@ I use `head` to see the 10 lines of a file such as `sample.txt`. This helps me q
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/head.png)
+![Alt text](screenshots/head.png)
 
 ## 6. Display 10 Lines
 
@@ -767,7 +767,7 @@ The `tail` command shows me the last 10 lines of a file like `sample.txt`. This 
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/tail.png)
+![Alt text](screenshots/tail.png)
 
 ## 7. Count File Statistics
 
@@ -785,7 +785,7 @@ With `wc` I can see the number of lines, words and characters in `sample.txt`. T
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/wc.png)
+![Alt text](screenshots/wc.png)
 
 ## 8. Search Text in a File
 
@@ -803,7 +803,7 @@ The `grep` command helps me search for text like "Linux" in a file named `sample
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/grep.png)
+![Alt text](screenshots/grep.png)
 
 ## 9. Display File with Line Numbers
 
@@ -821,7 +821,7 @@ I use `nl` to display the contents of `sample.txt` with line numbers. This makes
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/nl.png)
+![Alt text](screenshots/nl.png)
 
 ## 10. Clear the Terminal Screen
 
@@ -837,7 +837,7 @@ The `clear` command clears the terminal screen. This helps keep my workspace tid
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/clear.png)
+![Alt text](screenshots/clear.png)
 
 #
 
@@ -883,7 +883,7 @@ I can use this command to search for all my text files with the extension in the
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/find.png)
+![Alt text](screenshots/find.png)
 
 ---
 
@@ -903,7 +903,7 @@ When I need to know where a certain program is located I use the Locate Command.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/which.png)
+![Alt text](screenshots/which.png)
 
 ---
 
@@ -923,7 +923,7 @@ To check how space I have left on my disk I use the Display Disk Usage command. 
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/df-h.png)
+![Alt text](screenshots/df-h.png)
 
 ---
 
@@ -943,7 +943,7 @@ I can check the size of the current directory using the Display Directory Size c
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/du-sh.png)
+![Alt text](screenshots/du-sh.png)
 
 ---
 
@@ -963,7 +963,7 @@ The Display Calendar command shows me the months calendar. I use the Display Cal
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/cal.png)
+![Alt text](screenshots/cal.png)
 
 ---
 
@@ -983,7 +983,7 @@ To check the date and time I use the Display Current Date And Time command. The 
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/date.png)
+![Alt text](screenshots/date.png)
 
 ---
 
@@ -1003,7 +1003,7 @@ The Display Command History command shows me all the commands I have used before
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/history.png)
+![Alt text](screenshots/history.png)
 
 ---
 
@@ -1023,7 +1023,7 @@ To check which processes are currently running I use the Display Running Process
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/ps.png)
+![Alt text](screenshots/ps.png)
 
 ---
 
@@ -1043,7 +1043,7 @@ The Monitor System Processes command shows me real-time information about the pr
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/top.png)
+![Alt text](screenshots/top.png)
 
 ---
 
@@ -1063,7 +1063,7 @@ When I am done using the terminal I use the Exit The Terminal command to close t
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/exit.png)
+![Alt text](screenshots/exit.png)
 
 ---
 
@@ -1105,7 +1105,7 @@ I can create a ZIP archive with a file in it. This is done with a command.
 
 ### Screenshot
 
-![Alt text]Alt text](screenshots/zip.png)
+![Alt text](screenshots/zip.png)
 
 ## 2. Extract a ZIP Archive
 
@@ -1123,7 +1123,7 @@ To get the file back I use the command. It extracts the ZIP archive.
 
 ### Screenshot
 
-![Alt text]unzip](screenshots/unzip.png)
+![Alt text](screenshots/unzip.png)
 
 ## 3. Create a TAR Archive
 
@@ -1141,7 +1141,7 @@ A TAR archive is another type of archive. I create it with the tar command and t
 
 ### Screenshot
 
-![Alt text]tar-create](screenshots/tar-create.png)
+![Alt text](screenshots/tar-create.png)
 
 ## 4. Extract a TAR Archive
 
@@ -1159,7 +1159,7 @@ The tar command with an option helps me extract the TAR archive.
 
 ### Screenshot
 
-![Alt text]tar-extract](screenshots/tar-extract.png)
+![Alt text](screenshots/tar-extract.png)
 
 ## 5. Compress a File Using gzip
 
@@ -1177,7 +1177,7 @@ gzip is a tool to compress files. I use it to make my file smaller.
 
 ### Screenshot
 
-![Alt text]gzip](screenshots/gzip.png)
+![Alt text](screenshots/gzip.png)
 
 ## 6. Decompress a Gzip File
 
@@ -1195,7 +1195,7 @@ When I want my file back I use gunzip. It decompresses the gzip file.
 
 ### Screenshot
 
-![Alt text]gunzip](screenshots/gunzip.png)
+![Alt text](screenshots/gunzip.png)
 
 ## 7. Create a Hard Link
 
@@ -1213,7 +1213,7 @@ A hard link is like a copy of a file. I create it with the command.
 
 ### Screenshot
 
-![Alt text]hardlink](screenshots/hardlink.png)
+![Alt text](screenshots/hardlink.png)
 
 ## 8. Create a Symbolic Link
 
@@ -1231,7 +1231,7 @@ A symbolic link points to a file. The ln command with an option creates it.
 
 ### Screenshot
 
-![Alt text]softlink](screenshots/softlink.png)
+![Alt text](screenshots/softlink.png)
 
 ## 9. Display File Type
 
@@ -1249,7 +1249,7 @@ I can see what type of file I have. The file command tells me.
 
 ### Screenshot
 
-![Alt text]file](screenshots/file.png)
+![Alt text](screenshots/file.png)
 
 ## 10. Compare Two Files
 
@@ -1267,7 +1267,7 @@ The diff command shows me the differences between two files.
 
 ### Screenshot
 
-![Alt text]diff](screenshots/diff.png)
+![Alt text](screenshots/diff.png)
 
 #
 
