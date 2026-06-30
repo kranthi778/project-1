@@ -639,7 +639,7 @@ This is the Linux kernel way of showing you the memory information.
 
 ---
 
-#
+#conclusion
 
 In this part I learned how to:
 
@@ -839,7 +839,7 @@ The `clear` command clears the terminal screen. This helps keep my workspace tid
 
 ![Alt text](screenshots/clear.png)
 
-#
+#conclusion
 
 In this part I learned how to:
 
@@ -1269,7 +1269,7 @@ The diff command shows me the differences between two files.
 
 ![Alt text](screenshots/diff.png)
 
-#
+#conclusion
 
 In this part, I learned how to:
 
