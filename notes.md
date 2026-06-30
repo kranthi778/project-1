@@ -1532,3 +1532,215 @@ In this part I learned how to do a lot of things with files like:
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+# Part 8 – Package Management
+
+## 1. Update Package List
+
+### Command
+
+```bash
+
+sudo update
+
+```
+
+### Description
+
+This command updates the package list from the configured repositories. It helps to get the package information.
+
+### Screenshot
+
+![Alt text](screenshots/update.png)
+
+## 2. Upgrade Installed Packages
+
+### Command
+
+```bash
+
+sudo apt upgrade
+
+```
+
+### Description
+
+The ` upgrade` command upgrades all installed packages to their latest available versions. This keeps the system up to date.
+
+### Screenshot
+
+sudo apt upgrade may upgrade hundreds of packages so screenshot is full not possiable
+
+## 3. Search for a Package
+
+### Command
+
+```bash
+
+search nmap
+
+```
+
+### Description
+
+To find packages related to `nmap` use the `apt search nmap` command. It searches the package repository.
+
+### Screenshot
+
+![ text](screenshots/apt-search.png)
+
+## 4. Display Package Information
+
+### Command
+
+```bash
+
+apt show nmap
+
+```
+
+### Description
+
+The `apt show nmap` command displays information about the `nmap` package. It helps to know more about the package.
+
+### Screenshot
+
+![Alt text](screenshots/show.png)
+
+## 5. Install a Package
+
+### Command
+
+```bash
+
+sudo install tree
+
+```
+
+### Description
+
+To install the `tree` package use the `sudo apt install tree` command. It installs the package from the repository.
+
+### Screenshot
+
+![ text](screenshots/apt-install.png)
+
+## 6. Verify Installed Package
+
+### Command
+
+```bash
+
+tree --version
+
+```
+
+### Description
+
+The `tree --version` command displays the installed version of the `tree` utility. It helps to verify the installation.
+
+### Screenshot
+
+![ text](screenshots/tree-version.png)
+
+## 7. Remove a Package
+
+### Command
+
+```bash
+
+sudo apt remove tree
+
+```
+
+### Description
+
+To remove the installed `tree` package use the `sudo remove tree` command.
+
+### Screenshot
+
+It removes the  software 
+
+## 8. Remove Packages
+
+### Command
+
+```bash
+
+sudo apt autoremove
+
+```
+
+### Description
+
+The `sudo apt autoremove` command removes packages that were automatically installed. Are no longer required.
+
+### Screenshot
+
+![Alt text](screenshots/apt-autoremove.png)
+
+## 9. Clean Downloaded Package Cache
+
+### Command
+
+```bash
+
+sudo clean
+
+```
+
+### Description
+
+To clean the downloaded package files from the local cache use the `sudo apt clean` command.
+
+### Screenshot
+
+![Alt text](screenshots/clean.png)
+
+## 10. Display Installed Package List
+
+### Command
+
+```bash
+
+list --installed
+
+```
+
+### Description
+
+The `apt list --installed` command displays a list of all installed packages on the system.
+
+### Screenshot
+
+![Alt text](screenshots/list-installed.png)
+
+#
+
+In this part I learned how to manage packages using various `apt` commands.
+
+- I used ` update` to update the package list.
+
+- I used ` upgrade` to upgrade installed packages.
+
+- I used ` search` to search for packages like `nmap`.
+
+- I used ` show` to display information about packages like `nmap`.
+
+- I used ` install` to install packages like `tree`.
+
+- I used `tree --version` to verify the installed version of `tree`.
+
+- I used ` remove` to remove packages, like `tree`.
+
+- I used ` autoremove` to remove unused packages.
+
+- I used ` clean` to clean the package cache.
+
+- I used ` list --installed` to display installed packages.
+
+
+
